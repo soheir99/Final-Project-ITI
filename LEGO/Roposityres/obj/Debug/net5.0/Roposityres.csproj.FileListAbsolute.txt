@@ -1,0 +1,75 @@
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.deps.json
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.json
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.dev.json
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.dll
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\ref\Roposityres.dll
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.pdb
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.AssemblyReference.cache
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfoInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfo.cs
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.dll
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\ref\Roposityres.dll
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.pdb
+C:\Users\moamn\source\repos\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.genruntimeconfig.cache
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.AssemblyReference.cache
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfoInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfo.cs
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CoreCompileInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\ref\Roposityres.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.pdb
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.deps.json
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.json
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.dev.json
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\ref\Roposityres.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.pdb
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Models.dll
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Data.pdb
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\bin\Debug\net5.0\Models.pdb
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CopyComplete
+C:\Users\moamn\Desktop\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.genruntimeconfig.cache
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.deps.json
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.json
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.dev.json
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\ref\Roposityres.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Roposityres.pdb
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Models.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Data.pdb
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\bin\Debug\net5.0\Models.pdb
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.AssemblyReference.cache
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfoInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfo.cs
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CoreCompileInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CopyComplete
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\ref\Roposityres.dll
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.pdb
+Z:\Visual_Studio_Project\LogoAPI\Roposityres\obj\Debug\net5.0\Roposityres.genruntimeconfig.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Roposityres.deps.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Roposityres.runtimeconfig.dev.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Roposityres.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\ref\Roposityres.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Roposityres.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Models.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Data.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\bin\Debug\net5.0\Models.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.csproj.AssemblyReference.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.GeneratedMSBuildEditorConfig.editorconfig
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfoInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.AssemblyInfo.cs
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CoreCompileInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.csproj.CopyComplete
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\ref\Roposityres.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Roposityres\obj\Debug\net5.0\Roposityres.genruntimeconfig.cache

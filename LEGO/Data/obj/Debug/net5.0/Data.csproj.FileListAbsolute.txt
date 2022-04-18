@@ -1,0 +1,72 @@
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Data.dll
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Models.dll
+C:\Users\moamn\source\repos\LogoAPI\Data\bin\Debug\net5.0\Models.pdb
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.dll
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\moamn\source\repos\LogoAPI\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Models.dll
+C:\Users\moamn\Desktop\LogoAPI\Data\bin\Debug\net5.0\Models.pdb
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\moamn\Desktop\LogoAPI\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Data.deps.json
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\ref\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Data.pdb
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Models.dll
+Z:\Visual_Studio_Project\LogoAPI\Data\bin\Debug\net5.0\Models.pdb
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\ref\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.pdb
+Z:\Visual_Studio_Project\LogoAPI\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Data.deps.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\ref\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Data.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Models.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\bin\Debug\net5.0\Models.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\ref\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache

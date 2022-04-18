@@ -1,0 +1,412 @@
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\appsettings.json
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.exe
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.deps.json
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.json
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.dev.json
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\ref\API_User.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\API_User.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Humanizer.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Data.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Models.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Data.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\bin\Debug\net5.0\Models.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.AssemblyReference.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfoInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfo.cs
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.Manifest.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.xml
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\scopedcss\bundle\API_User.styles.css
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.RazorTargetAssemblyInfo.cache
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CopyComplete
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\ref\API_User.dll
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.pdb
+C:\Users\moamn\source\repos\LogoAPI\API_User\obj\Debug\net5.0\API_User.genruntimeconfig.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\appsettings.json
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.exe
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.deps.json
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.json
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.dev.json
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\ref\API_User.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\API_User.pdb
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Humanizer.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Data.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Models.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Data.pdb
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Models.pdb
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.AssemblyReference.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfoInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfo.cs
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CoreCompileInputs.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.Manifest.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.xml
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\scopedcss\bundle\API_User.styles.css
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.RazorTargetAssemblyInfo.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CopyComplete
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\ref\API_User.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.pdb
+C:\Users\moamn\Desktop\LogoAPI\API_User\obj\Debug\net5.0\API_User.genruntimeconfig.cache
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Management.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Roposityres.dll
+C:\Users\moamn\Desktop\LogoAPI\API_User\bin\Debug\net5.0\Roposityres.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\appsettings.Development.json
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\appsettings.json
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.exe
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.deps.json
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.json
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.runtimeconfig.dev.json
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\ref\API_User.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\API_User.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Azure.Core.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Azure.Identity.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Humanizer.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.Types.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ConnectionInfo.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.Common.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Assessment.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Collector.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrData.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrModel.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEvent.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.PolicyEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.Notebook.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SmoExtended.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlWmiManagement.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.SqlServer.WmiEnum.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.CodeDom.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Data.OleDb.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Management.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Memory.Data.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Data.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Models.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Roposityres.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Data.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Roposityres.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Models.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.AssemblyReference.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfoInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.AssemblyInfo.cs
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CoreCompileInputs.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cs
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.Manifest.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.xml
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\scopedcss\bundle\API_User.styles.css
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.RazorTargetAssemblyInfo.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.csproj.CopyComplete
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\ref\API_User.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.pdb
+Z:\Visual_Studio_Project\LogoAPI\API_User\obj\Debug\net5.0\API_User.genruntimeconfig.cache
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Z:\Visual_Studio_Project\LogoAPI\API_User\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\appsettings.Development.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\appsettings.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.StaticWebAssets.xml
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.exe
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.deps.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.runtimeconfig.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.runtimeconfig.dev.json
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\ref\API_User.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\API_User.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Azure.Core.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Azure.Identity.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Humanizer.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.Types.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ConnectionInfo.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.Common.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Assessment.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Collector.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrData.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrModel.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEvent.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.PolicyEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.Notebook.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.Smo.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SmoExtended.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Microsoft.SqlServer.WmiEnum.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.CodeDom.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Data.OleDb.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Management.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Memory.Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Data.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Models.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Roposityres.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Data.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Roposityres.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\bin\Debug\net5.0\Models.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.csproj.AssemblyReference.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.GeneratedMSBuildEditorConfig.editorconfig
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.AssemblyInfoInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.AssemblyInfo.cs
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.csproj.CoreCompileInputs.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cs
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.MvcApplicationPartsAssemblyInfo.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\scopedcss\bundle\API_User.styles.css
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\staticwebassets\API_User.StaticWebAssets.Manifest.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.RazorTargetAssemblyInfo.cache
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.csproj.CopyComplete
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\ref\API_User.dll
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.pdb
+E:\iTi .net\ASP.Net  Cor\final\LogoAPI_MO1\API_User\obj\Debug\net5.0\API_User.genruntimeconfig.cache
