@@ -6457,19 +6457,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sohir\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatma\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\iTi .net\\ASP.Net  Cor\\final\\LogoAPI_MO1\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\Fatma\\Source\\Repos\\Final-Project-ITI\\LEGO\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "E:\\iTi .net\\ASP.Net  Cor\\final\\LogoAPI_MO1\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\Sohir\\.nuget\\packages\\",
-      "outputPath": "E:\\iTi .net\\ASP.Net  Cor\\final\\LogoAPI_MO1\\Models\\obj\\",
+      "projectPath": "C:\\Users\\Fatma\\Source\\Repos\\Final-Project-ITI\\LEGO\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\Fatma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatma\\Source\\Repos\\Final-Project-ITI\\LEGO\\Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Sohir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
